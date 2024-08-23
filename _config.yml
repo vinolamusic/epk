@@ -8,15 +8,13 @@ description: Latin DJ & Producer
 username: Vino LaMusic
 user_description:  Known for his electrifying sets that mesmerize audiences globally, Vino LaMusic doesn't just play music—he crafts immersive experiences that linger long after the night ends.
 
-
 user_title: Latin DJ & Producer
 email: info@vinolamusic.com
-# twitter_username: lorem_ipsum
 instagram_username: vino.lamusic
 twitter_username: vinolamusic
+youtube_channel: https://www.youtube.com/@vinolamusic  # Replace with your actual YouTube channel link
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
-
